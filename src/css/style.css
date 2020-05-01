@@ -9,6 +9,7 @@ img{
         color: white;
         background: url(/src/img/background.png) no-repeat bottom center scroll;
         background-position: 30% 45%;
+        background-color: grey;
         background-size: cover;
       }
 
