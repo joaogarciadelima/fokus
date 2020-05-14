@@ -18,6 +18,7 @@ img{
 .desafios{
     align-items: center;
     width: auto;
+    display: flex;
     height: 100px;
 }
 body{
